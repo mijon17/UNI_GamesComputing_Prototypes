@@ -1,7 +1,8 @@
 # UNI_GamesComputing_Prototypes
  A Build of all game prototypees made in University Of Lincoln
+ 
 Year 1 - Desolation - First Time making a game using Unity for Games Studies Module
-
+ 
 Year 2 - 1. Poggers: Unique Mechanic: Day/Night Cycle - TASK : Create a tradition Arcade Game (Pacman,Frogger,Tetris etc) and add a unique Spin on it.
          2. C++ (First Time) - Create a Game Engine from Scratch using SDL - Simple DirectMedia Layer - Another Frogger Clone.
          3. TEAM PROJECT - Project Sanguine. Motivations: A Metroidvania/Souls Style Game with Dark Fantasy Theme.
