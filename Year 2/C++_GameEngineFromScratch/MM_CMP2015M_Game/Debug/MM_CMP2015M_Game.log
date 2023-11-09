@@ -1,0 +1,11 @@
+﻿  MM_CMP2015M_Game.cpp
+D:\Portfolio_MijonGameDemos\Year 2\C++_GameEngineFromScratch\MM_CMP2015M_Game\MM_CMP2015M_Game.cpp(59,68): warning C4474: 'printf' : too many arguments passed for format string
+D:\Portfolio_MijonGameDemos\Year 2\C++_GameEngineFromScratch\MM_CMP2015M_Game\MM_CMP2015M_Game.cpp(59,68): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+D:\Portfolio_MijonGameDemos\Year 2\C++_GameEngineFromScratch\MM_CMP2015M_Game\MM_CMP2015M_Game.cpp(202,18): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  MM_Sprite.cpp
+D:\Portfolio_MijonGameDemos\Year 2\C++_GameEngineFromScratch\MM_CMP2015M_Game\MM_Sprite.cpp(42,71): warning C4390: ';': empty controlled statement found; is this the intent?
+  MM_Square.cpp
+  MM_Timer.cpp
+  Generating Code...
+D:\Portfolio_MijonGameDemos\Year 2\C++_GameEngineFromScratch\MM_CMP2015M_Game\MM_CMP2015M_Game.cpp(217): warning C4715: 'SDL_main': not all control paths return a value
+  MM_CMP2015M_Game.vcxproj -> D:\Portfolio_MijonGameDemos\Year 2\C++_GameEngineFromScratch\Debug\MM_CMP2015M_Game.exe
